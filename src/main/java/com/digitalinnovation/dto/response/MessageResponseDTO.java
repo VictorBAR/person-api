@@ -1,4 +1,4 @@
-package com.digitalinnovation.dto;
+package com.digitalinnovation.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
